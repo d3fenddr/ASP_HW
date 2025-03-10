@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryAuth", "LibraryAuth\LibraryAuth.csproj", "{70E5333B-81FF-4708-A25E-CAAC2F680AAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70E5333B-81FF-4708-A25E-CAAC2F680AAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70E5333B-81FF-4708-A25E-CAAC2F680AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70E5333B-81FF-4708-A25E-CAAC2F680AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70E5333B-81FF-4708-A25E-CAAC2F680AAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
